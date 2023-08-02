@@ -1,1 +1,0 @@
-# monkey.d.rupi

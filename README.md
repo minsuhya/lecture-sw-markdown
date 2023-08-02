@@ -1,23 +1,33 @@
-# lecture-sw-markdown
-  this is the markdown\
-  monkey.d.rupi\
+# SW Engineering 
 
+<!-- vim-markdown-toc GFM -->
 
-@startuml
-Bob -> Alice : hello
-@enduml
+- [Table of Contents](#table-of-contents)
+- [Features](#features)
+- [Installation](#installation)
+  - [Ubuntu](#ubuntu)
+- [Installation2](#installation2)
+- [Installation2](#installation2-1)
 
-[SW 개발방법론](sw-method/sw-dev-method.md)
+<!-- vim-markdown-toc -->
 
-[sw-1.md](sw위기)
+## Table of Contents
 
-- this is monkey.d.rupi
-- this is monkey.d.rupi
-- this is monkey.d.rupi
+## Features
+some features
 
+## Installation
+some installation
 
-![MongoDB](images/mongo-log.png)
+### Ubuntu
+some installation
 
-![MongoDB](images/mongo-log.png)
+## Installation2
+some installation
 
-Rupi
+```python
+print(f"{name}")
+```
+
+## Installation2
+some installation
