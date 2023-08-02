@@ -7,7 +7,15 @@
 Bob -> Alice : hello
 @enduml
 
-[[sw-1.md|sw crisis]]
+[SW 개발방법론](sw-method/sw-dev-method.md)
+
+[sw-1.md](sw위기)
+
+- this is monkey.d.rupi
+- this is monkey.d.rupi
+- this is monkey.d.rupi
+
+
 ![MongoDB](images/mongo-log.png)
 
 ![MongoDB](images/mongo-log.png)
