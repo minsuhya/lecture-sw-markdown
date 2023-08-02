@@ -6,5 +6,5 @@
 ## Header2
 ### Header3
 
-[[sw-1|소프트웨어 위기]]
+[other markdown](sw-1.md)
 
