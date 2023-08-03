@@ -1,9 +1,9 @@
-# UML - https://github.com/danielyaa5/puml-for-markdown/tree/main
+# UML
 
 @startuml
 !include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml
-!include https://raw.githubusercontent.com/minsuhya/lecture-sw-markdown/master/puml/c4_styles.puml
-!include https://raw.githubusercontent.com/minsuhya/lecture-sw-markdown/master/puml/constants.puml
+!include <./c4_styles.puml>
+!include <./constants.puml>
 
 left header
 
@@ -12,6 +12,7 @@ left header
 \t<font size=14 color=#484848>The goals of my project are described here</font>
 
 end header
+
 
 System(sysName, "Labeling System\n", "", $sprite="cloud", $tags="primary", $link="./level_2_container_view.puml")
 
