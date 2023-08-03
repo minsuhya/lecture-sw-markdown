@@ -1,6 +1,6 @@
 @startuml
-!include ./styles.puml
-!include ./constants.puml
+!include https://raw.githubusercontent.com/minsuhya/lecture-sw-markdown/master/puml/c4_styles.puml
+!include https://raw.githubusercontent.com/minsuhya/lecture-sw-markdown/master/puml/constants.puml
 
 center header
 

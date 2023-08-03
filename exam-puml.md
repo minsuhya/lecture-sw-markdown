@@ -32,3 +32,8 @@ Rel_L(sysName, modelTrainingInference, "Send labels")
 
 HIDE_STEREOTYPE()
 @enduml
+
+#  system view
+@startuml
+!include https://raw.githubusercontent.com/minsuhya/lecture-sw-markdown/master/puml/level_1_system_view.puml
+@enduml

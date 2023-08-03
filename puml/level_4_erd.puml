@@ -1,5 +1,5 @@
 @startuml
-!include ./constants.puml
+!include https://raw.githubusercontent.com/minsuhya/lecture-sw-markdown/master/puml/constants.puml
 
 hide circle
 skinparam linetype ortho
