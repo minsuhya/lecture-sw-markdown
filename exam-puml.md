@@ -2,17 +2,14 @@
 
 @startuml
 !include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml
-!include ./c4_styles.puml
-!include ./constants.puml
+!include https://raw.githubusercontent.com/minsuhya/lecture-sw-markdown/master/puml/c4_styles.puml
+!include https://raw.githubusercontent.com/minsuhya/lecture-sw-markdown/master/puml/constants.puml
 
 left header
 
 \t<font size=22 color=black>$SYSTEM_NAME - System View</font>
 
 \t<font size=14 color=#484848>The goals of my project are described here</font>
-
-
-
 
 end header
 
